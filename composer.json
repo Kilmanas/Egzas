@@ -1,0 +1,14 @@
+{
+    "name": "martynas/testas",
+    "description": "kontrolinis",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "": "code"
+        }
+    },
+    "require": {
+      "ext-mysql_xdevapi": "*",
+      "ext-pdo": "*"
+    }
+}
